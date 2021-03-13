@@ -1,11 +1,11 @@
 results: [
     {
-    States:: "Alabama",
-    Covid Dashboard:: "https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367"
+        States:: "Alabama",
+        Covid Dashboard:: "https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367"
     },
     {
-    States:: "Alaska",
-    Covid Dashboard:: "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx"
+        States:: "Alaska",
+        Covid Dashboard:: "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx"
     },
     {
     States:: "Arizona",

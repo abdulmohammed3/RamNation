@@ -13,8 +13,8 @@ public class State {
     String dashboardLink;
 
     public State(JSONObject jsonObject) throws JSONException{
-        stateName = jsonObject.getString("States");
-        dashboardLink = jsonObject.getString("Covid Dashboard");
+        stateName = jsonObject.getString("States:");
+        dashboardLink = jsonObject.getString("Covid Dashboard:");
     }
     public static List<State> fromJsonArray (JSONArray stateJsonArray) throws JSONException{
         List<State> states = new ArrayList<>();
@@ -23,5 +23,9 @@ public class State {
         }
         return states;
     }
+    public String getStateName(){return stateName;}
 
+    public String getDashboardLink() {
+        return dashboardLink;
+    }
 }

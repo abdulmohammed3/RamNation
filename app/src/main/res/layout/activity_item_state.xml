@@ -4,21 +4,27 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="100dp"
+    android:background="#A8F44336"
+    android:clipToPadding="true">
 
     <TextView
         android:id="@+id/tvStateName"
         android:layout_width="137dp"
         android:layout_height="69dp"
-        android:text="North Cartolina"
-        android:textSize="24sp" />
+        android:text="@string/north_carolina"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp" />
 
     <TextView
         android:id="@+id/tvDashboardLink"
-        android:layout_width="265dp"
-        android:layout_height="66dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
         android:layout_marginStart="1dp"
         android:layout_toEndOf="@+id/tvStateName"
-        android:text="Link Goes Here"
-        android:textSize="24sp" />
+        android:text="@string/link_goes_here"
+        android:textAlignment="textStart"
+        android:textColor="#FFFFFF"
+        android:textSize="12sp" />
 </RelativeLayout>

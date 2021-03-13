@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">IN-19</string>
+    <string name="north_carolina">North Carolina</string>
+    <string name="link_goes_here">Link Goes Here<a href="">Tap here to open Link</a></string>
+    <string name="logo_image">logo_image</string>
 </resources>

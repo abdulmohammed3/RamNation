@@ -1,0 +1,206 @@
+results: [
+    {
+    States:: "Alabama",
+    Covid Dashboard:: "https://alpublichealth.maps.arcgis.com/apps/MapSeries/index.html?appid=d84846411471404c83313bfe7ab2a367"
+    },
+    {
+    States:: "Alaska",
+    Covid Dashboard:: "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx"
+    },
+    {
+    States:: "Arizona",
+    Covid Dashboard:: "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/"
+    },
+    {
+    States:: "Arkansas",
+    Covid Dashboard:: "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+    },
+    {
+    States:: "California",
+    Covid Dashboard:: "https://covid19.ca.gov/state-dashboard/"
+    },
+    {
+    States:: "Colorado",
+    Covid Dashboard:: "https://covid19.colorado.gov/data"
+    },
+    {
+    States:: "Conneticut",
+    Covid Dashboard:: "https://portal.ct.gov/coronavirus/covid-19-data-tracker"
+    },
+    {
+    States:: "Delaware",
+    Covid Dashboard:: "https://coronavirus.delaware.gov/"
+    },
+    {
+    States:: "Washington DC",
+    Covid Dashboard:: "https://coronavirus.dc.gov/data"
+    },
+    {
+    States:: "Florida",
+    Covid Dashboard:: "https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429"
+    },
+    {
+    States:: "Georgia",
+    Covid Dashboard:: "https://dph.georgia.gov/covid-19-daily-status-report"
+    },
+    {
+    States:: "Hawaii",
+    Covid Dashboard:: "https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/"
+    },
+    {
+    States:: "Idaho",
+    Covid Dashboard:: "https://coronavirus.idaho.gov/"
+    },
+    {
+    States:: "Illinois",
+    Covid Dashboard:: "https://www.dph.illinois.gov/covid19"
+    },
+    {
+    States:: "Indiana",
+    Covid Dashboard:: "https://www.coronavirus.in.gov/2393.htm"
+    },
+    {
+    States:: "Iowa",
+    Covid Dashboard:: "https://coronavirus.iowa.gov/"
+    },
+    {
+    States:: "Kansas",
+    Covid Dashboard:: "https://www.coronavirus.kdheks.gov/160/COVID-19-in-Kansas"
+    },
+    {
+    States:: "Kentucky",
+    Covid Dashboard:: "https://govstatus.egov.com/kycovid19"
+    },
+    {
+    States:: "Louisiana",
+    Covid Dashboard:: "https://ldh.la.gov/Coronavirus/"
+    },
+    {
+    States:: "Maine",
+    Covid Dashboard:: "https://www.maine.gov/covid19/vaccines/dashboard"
+    },
+    {
+    States:: "Maryland",
+    Covid Dashboard:: "https://coronavirus.maryland.gov/"
+    },
+    {
+    States:: "Massachusetts",
+    Covid Dashboard:: "https://www.mass.gov/info-details/covid-19-response-reporting"
+    },
+    {
+    States:: "Michigan",
+    Covid Dashboard:: "https://www.michigan.gov/coronavirus/0,9753,7-406-98163_98173---,00.html"
+    },
+    {
+    States:: "Minnesota",
+    Covid Dashboard:: "https://mn.gov/covid19/data/covid-dashboard/index.jsp"
+    },
+    {
+    States:: "Mississippi",
+    Covid Dashboard:: "https://msdh.ms.gov/msdhsite/_static/14,0,420.html"
+    },
+    {
+    States:: "Missouri",
+    Covid Dashboard:: "https://showmestrong.mo.gov/data/public-health/"
+    },
+    {
+    States:: "Montana",
+    Covid Dashboard:: "https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/demographics"
+    },
+    {
+    States:: "Nebraska",
+    Covid Dashboard:: "https://experience.arcgis.com/experience/ece0db09da4d4ca68252c3967aa1e9dd/page/page_0/"
+    },
+    {
+    States:: "Nevada",
+    Covid Dashboard:: "https://nvhealthresponse.nv.gov/"
+    },
+    {
+    States:: "New Hampshire",
+    Covid Dashboard:: "https://www.nh.gov/covid19/dashboard/overview.htm"
+    },
+    {
+    States:: "New Jersey",
+    Covid Dashboard:: "https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml"
+    },
+    {
+    States:: "New Mexico",
+    Covid Dashboard:: "https://cvprovider.nmhealth.org/public-dashboard.html"
+    },
+    {
+    States:: "New York",
+    Covid Dashboard:: "https://forward.ny.gov/early-warning-monitoring-dashboard"
+    },
+    {
+    States:: "North Carolina",
+    Covid Dashboard:: "https://covid19.ncdhhs.gov/dashboard"
+    },
+    {
+    States:: "North Dakota",
+    Covid Dashboard:: "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+    },
+    {
+    States:: "Ohio",
+    Covid Dashboard:: "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/dashboards"
+    },
+    {
+    States:: "Oklahoma",
+    Covid Dashboard:: "https://oklahoma.gov/covid19.html"
+    },
+    {
+    States:: "Oregon",
+    Covid Dashboard:: "https://govstatus.egov.com/OR-OHA-COVID-19"
+    },
+    {
+    States:: "Pennsylvania",
+    Covid Dashboard:: "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Monitoring-Dashboard.aspx"
+    },
+    {
+    States:: "Rhode Island",
+    Covid Dashboard:: "https://ri-department-of-health-covid-19-data-rihealth.hub.arcgis.com/"
+    },
+    {
+    States:: "South Carolina",
+    Covid Dashboard:: "https://scdhec.gov/covid19/covid-19-main-dashboard-overview-instructions"
+    },
+    {
+    States:: "South Dakota",
+    Covid Dashboard:: "https://doh.sd.gov/COVID/Dashboard.aspx"
+    },
+    {
+    States:: "Tennesse",
+    Covid Dashboard:: "https://covid19.tn.gov/data/dashboards/"
+    },
+    {
+    States:: "Texas",
+    Covid Dashboard:: "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83"
+    },
+    {
+    States:: "Utah",
+    Covid Dashboard:: "https://coronavirus-dashboard.utah.gov/"
+    },
+    {
+    States:: "Vermont",
+    Covid Dashboard:: "https://vcgi.maps.arcgis.com/apps/opsdashboard/index.html#/25e8ef0453e347a8b216ddf98a25a040"
+    },
+    {
+    States:: "Virginia",
+    Covid Dashboard:: "https://www.vdh.virginia.gov/coronavirus/"
+    },
+    {
+    States:: "Washington",
+    Covid Dashboard:: "https://www.doh.wa.gov/Emergencies/COVID19/DataDashboard"
+    },
+    {
+    States:: "West Virginia",
+    Covid Dashboard:: "https://dhhr.wv.gov/COVID-19/Pages/default.aspx"
+    },
+    {
+    States:: "Wisconsin",
+    Covid Dashboard:: "https://data.dhsgis.wi.gov/datasets/covid-19-historical-data-by-state/data?orderBy=GEOID"
+    },
+    {
+    States:: "Wyoming",
+    Covid Dashboard:: "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-state-and-county-dashboards/"
+    }
+]
